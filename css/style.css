@@ -395,5 +395,14 @@ margin-bottom: 2px;
 .series {
     width: 80%;
 }
+    
+.rating-number {
+    top: 23px;
+    left: -155px;
+    font-size: 12px;
+    line-height: normal;
+    position: relative;
+    margin-left: 0px;
+}
 
 }
